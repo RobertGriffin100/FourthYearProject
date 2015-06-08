@@ -16,7 +16,7 @@ namespace FourthYearProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ConfigTool());
+            Application.Run(new DiagnosticTool());
         }
     }
 }
